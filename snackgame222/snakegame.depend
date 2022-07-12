@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1657509662 source:c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\bgm.cpp
+	"BGM.h"
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<iostream>
+
+1657509662 c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\bgm.h
+
+1657550294 source:c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	"game.h"
+
+1657548499 c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+
+1655723618 c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657548389 c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\snake.h
+	<vector>
+
+1657502980 source:c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\main.cpp
+	"game.h"
+	"BGM.h"
+
+1657548418 source:c:\users\ming\documents\wechat files\wxid_42bq3dsnrwr822\filestorage\msgattach\33438b8d83de69316b95b1ab9c31713b\file\2022-07\snackgame (2)\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+
+1657509662 source:e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\bgm.cpp
+	"BGM.h"
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<iostream>
+
+1657509662 e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\bgm.h
+
+1657552231 source:e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	"game.h"
+
+1657548499 e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+
+1655723618 e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657548389 e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\snake.h
+	<vector>
+
+1657502980 source:e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\main.cpp
+	"game.h"
+	"BGM.h"
+
+1657548418 source:e:\wechat\wechat files\wxid_bvmavr120i7s22\filestorage\msgattach\909ea5acc177dd3d934f137a0691fe81\file\2022-07\snackgame222\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+

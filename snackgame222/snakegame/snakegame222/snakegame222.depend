@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1657509662 source:e:\cpp\snake版本\snackgame222\bgm.cpp
+	"BGM.h"
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<iostream>
+
+1657509662 e:\cpp\snake版本\snackgame222\bgm.h
+
+1657558004 source:e:\cpp\snake版本\snackgame222\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	"game.h"
+
+1657591011 e:\cpp\snake版本\snackgame222\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+
+1655723618 e:\cpp\snake版本\snackgame222\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657548389 e:\cpp\snake版本\snackgame222\snake.h
+	<vector>
+
+1657502980 source:e:\cpp\snake版本\snackgame222\main.cpp
+	"game.h"
+	"BGM.h"
+
+1657591849 source:e:\cpp\snake版本\snackgame222\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+

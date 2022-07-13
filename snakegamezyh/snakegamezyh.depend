@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1657613412 source:e:\cpp\snake版本\snakegamezyh\bgm.cpp
+	"BGM.h"
+	<stdio.h>
+	<graphics.h>
+	<Windows.h>
+	<conio.h>
+	<MMSystem.h>
+	<iostream>
+	<unistd.h>
+
+1657608734 e:\cpp\snake版本\snakegamezyh\bgm.h
+
+1657613640 source:e:\cpp\snake版本\snakegamezyh\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	"game.h"
+
+1657613640 e:\cpp\snake版本\snakegamezyh\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+
+1655723618 e:\cpp\snake版本\snakegamezyh\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1657613640 e:\cpp\snake版本\snakegamezyh\snake.h
+	<vector>
+
+1657608768 source:e:\cpp\snake版本\snakegamezyh\main.cpp
+	"game.h"
+	"BGM.h"
+
+1657613640 source:e:\cpp\snake版本\snakegamezyh\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+
